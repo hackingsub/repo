@@ -1,0 +1,13 @@
+  
+Source: miner
+Section: x11
+Priority: optional
+Maintainer: Gabi Urrutia <gabi.urrutia@halborn.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.0.0
+Homepage: 
+
+Package: miner
+Architecture: all
+Description: Primer ejemplo de empaquetamiento
+ Esto es un ejemplo de como crear un paquete
